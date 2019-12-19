@@ -1,9 +1,3 @@
-/*
- * File: HangmanCanvas.java
- * ------------------------
- * This file keeps track of the Hangman display.
- */
-
 import acm.graphics.*;
 import acm.util.RandomGenerator;
 
